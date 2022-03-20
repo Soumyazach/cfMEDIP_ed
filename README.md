@@ -2,8 +2,6 @@ Analysis pipeline for cell-free MeDIP-seq used to classify Cancer and Healthy sa
 
 Created by Sylvan Baca and Soumya Zacharia, with code adapted from Keegan Korthauer
 
-This pipeline is run in a conda environment specified in the file: misc/medips.env.yml
-
 Update metasheet.csv and config.yaml with sample info as needed
 
 To submit to cluster with slurm workload manager, use sbatch submit.sh

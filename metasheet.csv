@@ -1,0 +1,6 @@
+#comma-separated list of sample names and their class 
+#(either control, case, validate_case, validate_control, reference_case, or reference_control)
+
+SampleName,Type,Class,Batch,State,NE_score
+sample1,type1,case,1,NA,3
+sample1,type2,control,6,De novo,5
